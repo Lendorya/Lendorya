@@ -21,4 +21,4 @@
 </a>
 
 ### Дискорд
-<img src=https://discord.c99.nl/widget/theme-3/731197274130219101.png">
+<img src=https://discord.c99.nl/widget/theme-3/731197274130219101.png>
