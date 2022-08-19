@@ -2,13 +2,13 @@
 
 **Немного обо мне**
 
-> Никнейм в дискорде lendry n\
-> Живу в России n\
+> Никнейм в дискорде lendry \
+> Живу в России \
 > Учу JavaScript, пишу бота
 
 **Ссылочки**
 
-> Бот: [Нажать](https://discord.com/api/oauth2/authorize?client_id=982745857470386206&permissions=1644971949559&scope=bot%20applications.commands)
+> Бот: [Нажать](https://discord.com/api/oauth2/authorize?client_id=982745857470386206&permissions=1644971949559&scope=bot%20applications.commands) \
 > Дискорд: [Нажать](https://discord.com/users/731197274130219101)
 
 <br>Моя текущая платформа для хостинга, да это IDE
