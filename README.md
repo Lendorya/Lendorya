@@ -19,3 +19,6 @@
 <a href="https://github.com/Lendorya">
   <img src="https://github-readme-stats.vercel.app/api?username=Lendorya&theme=onedark&count_private=true&custom_title=Github%20All%20Time%20Stats&show_icons=true" />
 </a>
+
+### Дискорд
+<img src=https://discord.c99.nl/widget/theme-3/731197274130219101.png">
