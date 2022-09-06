@@ -15,6 +15,13 @@
 
 <img alt="Replit" src="https://img.shields.io/badge/Replit-11131d?&style=for-the-badge&logo=Replit&logoColor=cdcdcd" />
 
+### На чем я пишу
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,cs,ts,arduino,py" />
+  </a>
+</p>
+
 ### Статистика
 <a href="https://github.com/Lendorya">
   <img src="https://github-readme-stats.vercel.app/api?username=Lendorya&theme=onedark&count_private=true&custom_title=Github%20All%20Time%20Stats&show_icons=true" />
