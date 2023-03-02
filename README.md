@@ -14,7 +14,7 @@
 ### Что я использую
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vsc" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,atom,discord" />
   </a>
 </p>
 
